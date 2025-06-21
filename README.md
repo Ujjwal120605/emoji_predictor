@@ -23,7 +23,7 @@ This is a Streamlit-powered web app that predicts an appropriate emoji based on 
 This is a Streamlit-powered web app that predicts an appropriate emoji based on the input tweet or message text.
 
 🌐 **Live Demo**: [Click here to try the app][(https://your-username-your-app-name.streamlit.app) ](http://localhost:8505/) 
-_(Replace with your actual URL once deployed)_
+
 
 ---
 
